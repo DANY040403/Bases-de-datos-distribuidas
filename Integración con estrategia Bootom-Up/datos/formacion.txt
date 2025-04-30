@@ -1,0 +1,100 @@
+1,"Maestria","pulido-naranjo","celia","2022-07-16",15
+2,"Maestria","alvarado y lebron s.c.","adriana","2012-03-07",23
+3,"Licenciatura","ceja-mora y asociados","julio","2015-01-27",58
+4,"Maestria","almonte, roldan y haro","cesar","2012-11-05",55
+5,"Licenciatura","grupo razo-villareal","georgina","2017-03-17",18
+6,"Maestria","despacho mayorga-saiz","ignacio","2021-05-11",56
+7,"Licenciatura","verduzco-aleman","guillermo","2018-11-21",20
+8,"Doctorado","quesada-merino s.c.","adriana","2005-07-07",75
+9,"Doctorado","maestas-marrero","silvano","2021-08-12",39
+10,"Maestria","grupo casares-holguin","magdalena","2018-12-09",83
+11,"Doctorado","alonso-longoria s.a. de c.v.","helena","2022-10-26",22
+12,"Maestria","castellanos-leiva","eduardo","2021-01-09",75
+13,"Maestria","laboy-urias s.a. de c.v.","maria eugenia","2016-01-06",38
+14,"Maestria","llamas-batista s.a. de c.v.","claudio","2022-04-20",47
+15,"Doctorado","cordero y madrid s.c.","silvia","2019-09-29",3
+16,"Licenciatura","rodrigez y figueroa y asociados","david","2016-06-03",83
+17,"Maestria","padilla-alva s.a.","augusto","2007-06-05",8
+18,"Licenciatura","corporacin de jesus, figueroa y renteria","wilfrido","2010-11-24",44
+19,"Doctorado","sisneros y avila a.c.","ivonne","2023-02-03",66
+20,"Licenciatura","proyectos luevano-muniz","emiliano","2019-07-17",75
+21,"Maestria","macias s.c.","natalia","2008-11-23",31
+22,"Licenciatura","quezada-montanez","rafael","2022-02-21",86
+23,"Maestria","saucedo y urbina y asociados","wendolin","2012-05-09",95
+24,"Licenciatura","benavidez y lozano s.a. de c.v.","mauro","2012-11-29",48
+25,"Licenciatura","grupo ochoa-delgadillo","andrea","2008-11-11",60
+26,"Licenciatura","betancourt-vanegas y asociados","magdalena","2017-10-17",9
+27,"Maestria","club rincon y montano","aida","2009-10-05",72
+28,"Licenciatura","olivo s. r.l. de c.v.","jeronimo","2005-05-17",63
+29,"Doctorado","rosado y limon s.a. de c.v.","caridad","2008-10-25",71
+30,"Doctorado","cuellar-aguirre e hijos","aldonza","2012-11-07",90
+31,"Maestria","granados-uribe","luis miguel","2018-10-21",51
+32,"Maestria","grupo baca, garcia y rubio","zeferino","2016-05-21",83
+33,"Maestria","montanez y pineda y asociados","estela","2019-05-05",32
+34,"Doctorado","grupo lerma, espinoza y yanez","sara","2020-03-07",39
+35,"Doctorado","verduzco y varela e hijos","mariana","2009-03-08",69
+36,"Licenciatura","club gil, valdez y alonzo","alicia","2017-02-19",41
+37,"Maestria","corporacin naranjo y matos","emiliano","2013-04-24",47
+38,"Maestria","corona-medrano a.c.","aldonza","2012-12-20",15
+39,"Maestria","ledesma-mesa y asociados","cristian","2017-06-15",53
+40,"Licenciatura","laboratorios batista y trevino","maria eugenia","2009-08-25",55
+41,"Maestria","toro-sevilla","angelica","2010-07-12",5
+42,"Licenciatura","jurado-aparicio","rodrigo","2016-12-27",46
+43,"Maestria","olivas-cavazos","hernan","2007-10-28",82
+44,"Maestria","pedraza y velazquez y asociados","irma","2014-10-27",70
+45,"Doctorado","frias-hurtado","bianca","2012-08-09",63
+46,"Maestria","altamirano y asociados","mariano","2009-01-18",10
+47,"Doctorado","leyva-montero s. r.l. de c.v.","zoe","2010-06-22",70
+48,"Licenciatura","club jiminez y bravo","luis miguel","2015-04-02",62
+49,"Licenciatura","corporacin cantu, dominguez y saldana","alejandra","2008-09-13",87
+50,"Doctorado","proyectos sisneros y rendon","elena","2011-06-01",40
+51,"Doctorado","ojeda-munoz e hijos","esther","2019-06-02",23
+52,"Licenciatura","anguiano e hijos","jose eduardo","2005-08-16",55
+53,"Licenciatura","industrias tapia-montero","perla","2022-01-18",76
+54,"Maestria","industrias madera-trejo","karla","2012-07-30",12
+55,"Doctorado","de la rosa, zamudio y alcantar","juan carlos","2009-11-22",49
+56,"Licenciatura","cortez, alonso y botello","ana luisa","2022-12-06",31
+57,"Doctorado","industrias alcantar y romero","sonia","2015-11-19",68
+58,"Licenciatura","cornejo, olivas y esquivel","lucas","2013-09-02",96
+59,"Licenciatura","godoy y tello s.a.","agustin","2008-08-04",98
+60,"Licenciatura","corporacin negrete y zambrano","bernabe","2015-08-17",4
+61,"Maestria","laboratorios ballesteros y villanueva","eugenia","2009-11-21",2
+62,"Doctorado","corporacin botello, caldera y perales","rolando","2017-01-02",19
+63,"Licenciatura","despacho iglesias, valverde y fierro","cristian","2021-08-26",67
+64,"Licenciatura","jaimes s.c.","genaro","2013-02-21",32
+65,"Maestria","griego, alcantar y olivas","fidel","2022-03-18",7
+66,"Maestria","valadez-acevedo s.a. de c.v.","serafin","2016-09-11",6
+67,"Maestria","despacho colunga-calderon","ricardo","2022-06-03",70
+68,"Doctorado","corporacin arce y amador","gabriela","2016-06-26",48
+69,"Doctorado","tafoya y avalos s. r.l. de c.v.","leticia","2019-10-29",50
+70,"Doctorado","club pulido, martinez y urbina","evelio","2018-06-06",79
+71,"Doctorado","laboratorios chacon-de la rosa","hermelinda","2009-09-22",90
+72,"Maestria","aragon-almonte","francisco","2019-04-05",39
+73,"Maestria","elizondo y carrasco s.a. de c.v.","graciela","2018-01-14",43
+74,"Maestria","grupo martinez, ruiz y casanova","jeronimo","2009-06-29",50
+75,"Doctorado","lugo y munguia s.a. de c.v.","susana","2019-06-10",20
+76,"Maestria","proyectos valverde y molina","marco antonio","2010-12-19",53
+77,"Doctorado","melendez-calderon","antonio","2010-09-04",75
+78,"Licenciatura","jaimes-duran e hijos","gregorio","2011-08-15",30
+79,"Maestria","ocampo y del valle s.a.","benjamin","2017-12-10",93
+80,"Licenciatura","cordova, arredondo y garza","agustin","2017-07-16",83
+81,"Maestria","palacios y arriaga a.c.","francisca","2015-09-25",75
+82,"Licenciatura","valladares-olivarez s. r.l. de c.v.","florencia","2017-06-19",25
+83,"Licenciatura","grupo tamayo y mojica","monica","2020-09-10",15
+84,"Maestria","grupo cornejo y salinas","jeronimo","2012-06-06",16
+85,"Doctorado","zarate, ballesteros y guzman","oliver","2006-10-23",90
+86,"Licenciatura","vargas-barragan a.c.","yuridia","2012-04-03",40
+87,"Doctorado","arredondo-moreno","pascual","2020-08-12",68
+88,"Doctorado","luna, sanches y jiminez","mauricio","2016-02-13",39
+89,"Doctorado","ozuna y guillen s.a.","irma","2011-09-21",11
+90,"Maestria","barrientos s.a. de c.v.","rolando","2014-03-08",86
+91,"Licenciatura","caban-tafoya","dalia","2019-02-28",44
+92,"Maestria","prado y asociados","maria cristina","2022-08-25",82
+93,"Maestria","pacheco e hijos","dario","2006-04-30",42
+94,"Maestria","rendon y aguayo s. r.l. de c.v.","aurora","2015-09-28",67
+95,"Licenciatura","preciado-zedillo","caridad","2015-06-05",15
+96,"Doctorado","alba-hernandez","sara","2017-06-26",6
+97,"Licenciatura","hinojosa-barrera","julio","2016-01-08",32
+98,"Licenciatura","laboratorios urrutia y toledo","zoe","2014-09-11",30
+99,"Licenciatura","miramontes, manzanares y baca","trinidad","2022-11-04",24
+100,"Doctorado","corporacin rael y cortez","irene","2019-01-23",48

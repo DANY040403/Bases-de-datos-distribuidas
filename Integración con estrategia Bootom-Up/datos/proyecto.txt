@@ -1,0 +1,100 @@
+1,"eficiencia energetica en viviendas","2015-05-13","2024-06-01",69
+2,"eficiencia energetica en viviendas","2020-06-12","2024-12-10",93
+3,"tecnicas de conservacion","2016-10-26","2024-07-05",29
+4,"evaluacion de impacto social","2017-12-06","2024-06-14",32
+5,"desarrollo de tecnologia educativa","2017-12-22","2025-03-22",24
+6,"evaluacion de impacto social","2019-12-09","2024-06-07",98
+7,"desarrollo de tecnologia educativa","2022-01-02","2024-09-27",6
+8,"analisis de datos ambientales","2018-11-04","2025-01-11",52
+9,"procesamiento de imagenes satelitales","2022-07-04","2024-06-25",31
+10,"uso sostenible del agua","2018-02-08","2024-10-13",60
+11,"desarrollo de tecnologia educativa","2020-05-15","2025-03-31",77
+12,"procesamiento de imagenes satelitales","2019-06-30","2025-03-11",76
+13,"modelo de prediccion climatica","2016-03-25","2024-11-27",100
+14,"estudio de biodiversidad urbana","2020-07-22","2024-07-28",79
+15,"eficiencia energetica en viviendas","2017-08-24","2024-07-06",17
+16,"analisis de datos ambientales","2016-06-26","2024-11-27",11
+17,"sistemas inteligentes aplicados","2017-01-28","2024-08-15",31
+18,"analisis de datos ambientales","2019-09-29","2024-06-03",93
+19,"modelo de prediccion climatica","2020-10-11","2024-05-31",89
+20,"sistemas inteligentes aplicados","2023-03-18","2024-07-29",4
+21,"tecnicas de conservacion","2018-02-22","2024-12-12",3
+22,"uso sostenible del agua","2017-03-29","2024-05-17",42
+23,"sistemas inteligentes aplicados","2021-07-11","2024-08-03",57
+24,"desarrollo de tecnologia educativa","2017-11-30","2024-12-09",73
+25,"modelo de prediccion climatica","2021-02-01","2025-01-07",80
+26,"procesamiento de imagenes satelitales","2020-10-17","2024-07-02",18
+27,"eficiencia energetica en viviendas","2022-02-27","2024-06-16",93
+28,"tecnicas de conservacion","2019-03-25","2024-05-31",92
+29,"eficiencia energetica en viviendas","2017-09-08","2024-05-13",7
+30,"sistemas inteligentes aplicados","2021-10-21","2024-06-01",16
+31,"analisis de datos ambientales","2020-11-30","2025-04-21",9
+32,"sistemas inteligentes aplicados","2018-04-01","2025-03-17",2
+33,"eficiencia energetica en viviendas","2022-02-04","2025-03-09",56
+34,"estudio de biodiversidad urbana","2017-06-23","2024-07-31",50
+35,"sistemas inteligentes aplicados","2022-07-27","2024-08-11",41
+36,"analisis de datos ambientales","2016-04-19","2025-02-15",60
+37,"modelo de prediccion climatica","2018-10-13","2025-03-03",38
+38,"evaluacion de impacto social","2022-03-13","2024-09-13",28
+39,"estudio de biodiversidad urbana","2022-09-07","2024-11-15",69
+40,"estudio de biodiversidad urbana","2021-06-28","2024-10-08",6
+41,"estudio de biodiversidad urbana","2017-03-11","2024-08-17",96
+42,"desarrollo de tecnologia educativa","2017-06-22","2025-01-12",69
+43,"analisis de datos ambientales","2017-02-27","2024-09-02",7
+44,"evaluacion de impacto social","2019-10-10","2025-03-03",14
+45,"sistemas inteligentes aplicados","2015-08-02","2024-11-16",82
+46,"evaluacion de impacto social","2019-02-27","2024-05-26",10
+47,"procesamiento de imagenes satelitales","2017-11-04","2024-07-02",23
+48,"eficiencia energetica en viviendas","2021-07-15","2024-05-28",36
+49,"procesamiento de imagenes satelitales","2017-04-04","2024-08-02",32
+50,"tecnicas de conservacion","2022-06-20","2024-06-28",55
+51,"evaluacion de impacto social","2022-04-02","2024-10-30",40
+52,"evaluacion de impacto social","2019-11-15","2024-10-20",71
+53,"uso sostenible del agua","2015-06-29","2024-07-30",43
+54,"evaluacion de impacto social","2022-02-17","2024-11-07",87
+55,"modelo de prediccion climatica","2020-07-31","2024-10-30",4
+56,"tecnicas de conservacion","2018-07-08","2024-12-21",34
+57,"sistemas inteligentes aplicados","2016-03-23","2024-05-19",91
+58,"uso sostenible del agua","2015-07-06","2024-10-27",64
+59,"tecnicas de conservacion","2020-08-19","2025-02-17",62
+60,"eficiencia energetica en viviendas","2021-06-15","2024-05-20",73
+61,"analisis de datos ambientales","2019-09-19","2024-09-12",25
+62,"modelo de prediccion climatica","2016-02-16","2025-03-28",73
+63,"tecnicas de conservacion","2016-12-26","2024-07-04",46
+64,"analisis de datos ambientales","2021-06-09","2024-10-29",91
+65,"desarrollo de tecnologia educativa","2018-11-22","2024-09-19",28
+66,"desarrollo de tecnologia educativa","2017-01-23","2024-11-21",44
+67,"sistemas inteligentes aplicados","2019-01-30","2025-03-22",97
+68,"tecnicas de conservacion","2022-11-10","2025-01-10",38
+69,"modelo de prediccion climatica","2020-08-05","2024-06-09",90
+70,"procesamiento de imagenes satelitales","2015-05-13","2025-04-03",58
+71,"uso sostenible del agua","2017-11-13","2024-10-18",56
+72,"uso sostenible del agua","2022-08-06","2024-07-01",40
+73,"eficiencia energetica en viviendas","2015-08-11","2025-01-25",46
+74,"eficiencia energetica en viviendas","2015-10-01","2025-02-04",15
+75,"uso sostenible del agua","2021-10-04","2024-10-24",1
+76,"procesamiento de imagenes satelitales","2021-09-09","2025-02-07",93
+77,"procesamiento de imagenes satelitales","2020-07-11","2024-10-10",36
+78,"analisis de datos ambientales","2019-07-19","2025-03-05",38
+79,"desarrollo de tecnologia educativa","2018-06-12","2025-01-28",9
+80,"uso sostenible del agua","2016-07-07","2025-03-10",87
+81,"evaluacion de impacto social","2022-05-23","2024-10-01",38
+82,"desarrollo de tecnologia educativa","2017-01-12","2024-07-02",18
+83,"procesamiento de imagenes satelitales","2021-01-25","2024-08-28",51
+84,"analisis de datos ambientales","2022-03-02","2025-01-23",19
+85,"estudio de biodiversidad urbana","2018-05-16","2024-05-03",70
+86,"analisis de datos ambientales","2019-08-12","2024-07-31",4
+87,"analisis de datos ambientales","2016-04-11","2024-05-11",7
+88,"eficiencia energetica en viviendas","2021-07-22","2024-11-05",38
+89,"eficiencia energetica en viviendas","2018-01-18","2024-10-26",69
+90,"eficiencia energetica en viviendas","2018-05-16","2024-08-15",5
+91,"procesamiento de imagenes satelitales","2019-10-15","2024-07-29",13
+92,"sistemas inteligentes aplicados","2022-05-17","2025-02-19",8
+93,"uso sostenible del agua","2022-02-15","2025-01-16",51
+94,"estudio de biodiversidad urbana","2023-01-24","2024-06-12",14
+95,"estudio de biodiversidad urbana","2021-10-09","2024-07-22",2
+96,"desarrollo de tecnologia educativa","2015-07-10","2024-09-06",42
+97,"analisis de datos ambientales","2022-08-01","2024-12-17",50
+98,"sistemas inteligentes aplicados","2021-10-30","2024-10-20",80
+99,"sistemas inteligentes aplicados","2022-11-22","2025-01-22",14
+100,"evaluacion de impacto social","2021-07-13","2025-02-07",27

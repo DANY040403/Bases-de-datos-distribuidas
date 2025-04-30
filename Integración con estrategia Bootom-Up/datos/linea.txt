@@ -1,0 +1,100 @@
+1,"Matemáticas Puras","Investigación en teorías y aplicaciones de matemáticas puras.",1
+2,"Matemáticas Aplicadas","Estudio de aplicaciones matemáticas en diversas disciplinas.",1
+3,"Física Teórica","Desarrollo de teorías físicas y modelos matemáticos.",2
+4,"Física Experimental","Investigación experimental en física.",2
+5,"Química Orgánica","Estudio de compuestos orgánicos y sus reacciones.",3
+6,"Química Inorgánica","Investigación en compuestos inorgánicos y sus propiedades.",3
+7,"Biología Molecular","Estudio de procesos biológicos a nivel molecular.",4
+8,"Ecología","Investigación sobre interacciones entre organismos y su entorno.",4
+9,"Historia Moderna","Análisis de eventos históricos desde el siglo XVIII.",5
+10,"Literatura Hispanoamericana","Estudio de obras literarias de América Latina.",6
+11,"Filosofía Contemporánea","Investigación en corrientes filosóficas actuales.",7
+12,"Sociología Urbana","Estudio de dinámicas sociales en entornos urbanos.",8
+13,"Psicología Cognitiva","Investigación sobre procesos mentales y cognición.",9
+14,"Educación Inclusiva","Desarrollo de estrategias para la educación inclusiva.",10
+15,"Ingeniería Matemática","Aplicación de matemáticas en problemas de ingeniería.",11
+16,"Diseño Arquitectónico","Investigación en técnicas y estilos de diseño arquitectónico.",12
+17,"Diseño Gráfico","Estudio de principios y técnicas de diseño gráfico.",13
+18,"Comunicación Digital","Investigación en medios y plataformas digitales.",14
+19,"Derecho Constitucional","Estudio de principios y normas constitucionales.",15
+20,"Economía Internacional","Análisis de relaciones económicas entre países.",16
+21,"Administración de Proyectos","Desarrollo de metodologías para la gestión de proyectos.",17
+22,"Contabilidad Financiera","Estudio de principios contables y su aplicación.",18
+23,"Mercadotecnia Digital","Investigación en estrategias de marketing en línea.",19
+24,"Ciencias Políticas Comparadas","Análisis comparativo de sistemas políticos.",20
+25,"Antropología Cultural","Estudio de culturas y sus prácticas sociales.",21
+26,"Arqueología Prehispánica","Investigación sobre civilizaciones antiguas en América.",22
+27,"Geografía Humana","Estudio de la relación entre humanos y su entorno.",23
+28,"Lingüística Aplicada","Investigación sobre el uso del lenguaje en contextos prácticos.",24
+29,"Música Clásica","Estudio de la historia y teoría de la música clásica.",25
+30,"Artes Visuales Contemporáneas","Investigación en tendencias actuales en artes visuales.",26
+31,"Teatro Moderno","Estudio de obras y técnicas teatrales contemporáneas.",27
+32,"Danza Contemporánea","Investigación en estilos y técnicas de danza moderna.",28
+33,"Cine Documental","Estudio de técnicas y narrativas en el cine documental.",29
+34,"Fotografía Artística","Investigación en técnicas y estilos de fotografía artística.",30
+35,"Ciencias de la Computación Teórica","Estudio de fundamentos teóricos en computación.",31
+36,"Sistemas de Información","Investigación en diseño y gestión de sistemas de información.",32
+37,"Redes de Computadoras","Estudio de diseño y gestión de redes informáticas.",33
+38,"Inteligencia Artificial","Investigación en algoritmos y aplicaciones de IA.",34
+39,"Big Data y Análisis de Datos","Estudio de técnicas para el análisis de grandes volúmenes de datos.",35
+40,"Ciberseguridad","Investigación en protección de sistemas y datos contra ataques cibernéticos.",36
+41,"Desarrollo de Software Ágil","Estudio de metodologías ágiles en el desarrollo de software.",37
+42,"Robótica Avanzada","Investigación en técnicas y aplicaciones de robótica.",38
+43,"Bioinformática Aplicada","Estudio de aplicaciones de la informática en biología.",39
+44,"Matemáticas Financieras","Investigación en modelos matemáticos aplicados a finanzas.",40
+45,"Física Aplicada","Estudio de aplicaciones prácticas de principios físicos.",41
+46,"Química Analítica","Investigación en técnicas de análisis químico.",42
+47,"Biología Ambiental","Estudio de interacciones biológicas en el medio ambiente.",43
+48,"Historia de la Ciencia","Análisis de la evolución del pensamiento científico.",44
+49,"Literatura Infantil","Estudio de obras literarias dirigidas a niños.",45
+50,"Filosofía de la Ciencia","Investigación sobre fundamentos filosóficos de la ciencia.",46
+51,"Sociología de la Educación","Estudio de la relación entre educación y sociedad.",47
+52,"Psicología del Desarrollo","Investigación sobre el desarrollo humano a lo largo de la vida.",48
+53,"Educación a Distancia","Desarrollo de metodologías para la educación en línea.",49
+54,"Ingeniería de Software","Estudio de principios y prácticas en el desarrollo de software.",50
+55,"Arquitectura Sostenible","Investigación en prácticas de diseño arquitectónico sostenible.",51
+56,"Diseño de Interiores","Estudio de técnicas y estilos en diseño de interiores.",52
+57,"Comunicación Intercultural","Investigación sobre interacciones entre diferentes culturas.",53
+58,"Derecho Internacional","Estudio de normas y principios del derecho internacional.",54
+59,"Economía del Desarrollo","Análisis de estrategias para el desarrollo económico.",55
+60,"Administración Pública","Estudio de gestión y políticas en el sector público.",56
+61,"Contabilidad de Costos","Investigación en métodos de contabilidad de costos.",57
+62,"Mercadotecnia Estratégica","Estudio de estrategias de marketing a largo plazo.",58
+63,"Ciencias Políticas y Relaciones Internacionales","Investigación en políticas y relaciones entre naciones.",59
+64,"Antropología Social","Estudio de estructuras sociales y relaciones humanas.",60
+65,"Arqueología Histórica","Investigación sobre civilizaciones históricas y su legado.",61
+66,"Geografía Física","Estudio de procesos físicos en la Tierra.",62
+67,"Lingüística Teórica","Investigación en teorías del lenguaje y su estructura.",63
+68,"Música Popular","Estudio de géneros y estilos de música popular.",64
+69,"Artes Escénicas","Investigación en diversas formas de artes escénicas.",65
+70,"Cine de Ficción","Estudio de técnicas y narrativas en el cine de ficción.",66
+71,"Fotografía Documental","Investigación en técnicas de fotografía para documentar realidades.",67
+72,"Ciencias de la Computación Aplicadas","Estudio de aplicaciones prácticas en computación.",68
+73,"Sistemas de Seguridad Informática","Investigación en protección de sistemas informáticos.",69
+74,"Redes Sociales","Estudio de dinámicas y efectos de las redes sociales.",70
+75,"Inteligencia de Negocios","Investigación en análisis de datos para la toma de decisiones empresariales.",71
+76,"Big Data en Salud","Estudio de aplicaciones de Big Data en el sector salud.",72
+77,"Ciberinteligencia","Investigación en técnicas de inteligencia cibernética.",73
+78,"Desarrollo de Aplicaciones Móviles","Estudio de metodologías para el desarrollo de apps móviles.",74
+79,"Robótica Educativa","Investigación en el uso de robótica en entornos educativos.",75
+80,"Bioinformática Genómica","Estudio de aplicaciones de bioinformática en genómica.",76
+81,"Matemáticas para la Ingeniería","Investigación en aplicaciones matemáticas en ingeniería.",77
+82,"Física de Materiales","Estudio de propiedades físicas de materiales.",78
+83,"Química Verde","Investigación en prácticas sostenibles en química.",79
+84,"Biología de la Conservación","Estudio de estrategias para la conservación de especies.",80
+85,"Historia del Arte","Análisis de la evolución del arte a través de la historia.",81
+86,"Literatura Comparativa","Estudio de comparaciones entre diferentes tradiciones literarias.",82
+87,"Filosofía Política","Investigación sobre teorías y prácticas políticas.",83
+88,"Sociología Rural","Estudio de dinámicas sociales en áreas rurales.",84
+89,"Psicología Organizacional","Investigación sobre comportamiento en entornos laborales.",85
+90,"Educación en Valores","Desarrollo de programas educativos centrados en valores.",86
+91,"Ingeniería de Datos","Estudio de técnicas para la gestión y análisis de datos.",87
+92,"Arquitectura de Paisaje","Investigación en diseño de espacios exteriores.",88
+93,"Diseño de Productos","Estudio de procesos de diseño y desarrollo de productos.",89
+94,"Comunicación Política","Investigación sobre estrategias de comunicación en política.",90
+95,"Derecho Penal","Estudio de normas y principios del derecho penal.",91
+96,"Economía Comportamental","Análisis de factores psicológicos en decisiones económicas.",92
+97,"Administración de Recursos Humanos","Estudio de gestión del talento humano en organizaciones.",93
+98,"Contabilidad Internacional","Investigación en normas contables a nivel internacional.",94
+99,"Mercadotecnia Internacional","Estudio de estrategias de marketing en mercados globales.",95
+100,"Ciencias Políticas y Teoría Crítica","Investigación en teorías críticas de la política.",96

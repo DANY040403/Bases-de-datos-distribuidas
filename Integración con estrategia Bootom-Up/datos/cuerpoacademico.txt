@@ -1,0 +1,100 @@
+1,"Cuerpo Académico de Matemáticas",1
+2,"Cuerpo Académico de Física",2
+3,"Cuerpo Académico de Química",3
+4,"Cuerpo Académico de Biología",4
+5,"Cuerpo Académico de Historia",5
+6,"Cuerpo Académico de Literatura",6
+7,"Cuerpo Académico de Filosofía",7
+8,"Cuerpo Académico de Sociología",8
+9,"Cuerpo Académico de Psicología",9
+10,"Cuerpo Académico de Educación",10
+11,"Cuerpo Académico de Ingeniería",1
+12,"Cuerpo Académico de Arquitectura",2
+13,"Cuerpo Académico de Diseño",3
+14,"Cuerpo Académico de Comunicación",4
+15,"Cuerpo Académico de Derecho",5
+16,"Cuerpo Académico de Economía",6
+17,"Cuerpo Académico de Administración",7
+18,"Cuerpo Académico de Contabilidad",8
+19,"Cuerpo Académico de Mercadotecnia",9
+20,"Cuerpo Académico de Ciencias Políticas",10
+21,"Cuerpo Académico de Antropología",1
+22,"Cuerpo Académico de Arqueología",2
+23,"Cuerpo Académico de Geografía",3
+24,"Cuerpo Académico de Lingüística",4
+25,"Cuerpo Académico de Música",5
+26,"Cuerpo Académico de Artes Visuales",6
+27,"Cuerpo Académico de Teatro",7
+28,"Cuerpo Académico de Danza",8
+29,"Cuerpo Académico de Cine",9
+30,"Cuerpo Académico de Fotografía",10
+31,"Cuerpo Académico de Ciencias de la Computación",1
+32,"Cuerpo Académico de Sistemas",2
+33,"Cuerpo Académico de Redes",3
+34,"Cuerpo Académico de Inteligencia Artificial",4
+35,"Cuerpo Académico de Big Data",5
+36,"Cuerpo Académico de Ciberseguridad",6
+37,"Cuerpo Académico de Desarrollo de Software",7
+38,"Cuerpo Académico de Robótica",8
+39,"Cuerpo Académico de Bioinformática",9
+40,"Cuerpo Académico de Matemáticas Aplicadas",10
+41,"Cuerpo Académico de Física Teórica",1
+42,"Cuerpo Académico de Química Orgánica",2
+43,"Cuerpo Académico de Biología Molecular",3
+44,"Cuerpo Académico de Historia Contemporánea",4
+45,"Cuerpo Académico de Literatura Comparada",5
+46,"Cuerpo Académico de Ética",6
+47,"Cuerpo Académico de Métodos Cuantitativos",7
+48,"Cuerpo Académico de Psicología Social",8
+49,"Cuerpo Académico de Educación Especial",9
+50,"Cuerpo Académico de Ingeniería Civil",10
+51,"Cuerpo Académico de Ingeniería Electrónica",1
+52,"Cuerpo Académico de Ingeniería Mecánica",2
+53,"Cuerpo Académico de Ingeniería Industrial",3
+54,"Cuerpo Académico de Ingeniería Química",4
+55,"Cuerpo Académico de Ingeniería de Software",5
+56,"Cuerpo Académico de Ingeniería Ambiental",6
+57,"Cuerpo Académico de Ingeniería de Transporte",7
+58,"Cuerpo Académico de Ingeniería de Telecomunicaciones",8
+59,"Cuerpo Académico de Ingeniería de Sistemas Computacionales",9
+60,"Cuerpo Académico de Ingeniería de Energías Renovables",10
+61,"Cuerpo Académico de Ciencias de la Salud",1
+62,"Cuerpo Académico de Medicina",2
+63,"Cuerpo Académico de Enfermería",3
+64,"Cuerpo Académico de Odontología",4
+65,"Cuerpo Académico de Nutrición",5
+66,"Cuerpo Académico de Fisioterapia",6
+67,"Cuerpo Académico de Psicología Clínica",7
+68,"Cuerpo Académico de Salud Pública",8
+69,"Cuerpo Académico de Farmacia",9
+70,"Cuerpo Académico de Terapia Ocupacional",10
+71,"Cuerpo Académico de Ciencias Sociales",1
+72,"Cuerpo Académico de Trabajo Social",2
+73,"Cuerpo Académico de Sociología Aplicada",3
+74,"Cuerpo Académico de Política Social",4
+75,"Cuerpo Académico de Desarrollo Comunitario",5
+76,"Cuerpo Académico de Educación para la Paz",6
+77,"Cuerpo Académico de Estudios de Género",7
+78,"Cuerpo Académico de Derechos Humanos",8
+79,"Cuerpo Académico de Migración",9
+80,"Cuerpo Académico de Cultura y Sociedad",10
+81,"Cuerpo Académico de Ciencias de la Tierra",1
+82,"Cuerpo Académico de Geología",2
+83,"Cuerpo Académico de Meteorología",3
+84,"Cuerpo Académico de Oceanografía",4
+85,"Cuerpo Académico de Ecología",5
+86,"Cuerpo Académico de Recursos Naturales",6
+87,"Cuerpo Académico de Biotecnología",7
+88,"Cuerpo Académico de Conservación Ambiental",8
+89,"Cuerpo Académico de Gestión Ambiental",9
+90,"Cuerpo Académico de Agricultura Sostenible",10
+91,"Cuerpo Académico de Ciencias de la Comunicación",1
+92,"Cuerpo Académico de Periodismo",2
+93,"Cuerpo Académico de Publicidad",3
+94,"Cuerpo Académico de Relaciones Públicas",4
+95,"Cuerpo Académico de Comunicación Organizacional",5
+96,"Cuerpo Académico de Comunicación Audiovisual",6
+97,"Cuerpo Académico de Comunicación Digital",7
+98,"Cuerpo Académico de Comunicación Intercultural",8
+99,"Cuerpo Académico de Comunicación Política",9
+100,"Cuerpo Académico de Comunicación y Cultura",10

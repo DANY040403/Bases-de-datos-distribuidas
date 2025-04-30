@@ -1,0 +1,100 @@
+1,"Libro","estudio de biodiversidad urbana",2009,8
+2,"Articulo","uso sostenible del agua",2007,94
+3,"Ponencia","desarrollo de tecnologia educativa",2023,51
+4,"Articulo","desarrollo de tecnologia educativa",2018,45
+5,"Ponencia","desarrollo de tecnologia educativa",2024,71
+6,"Ponencia","procesamiento de imagenes satelitales",2010,71
+7,"Informe","modelo de prediccion climatica",2020,47
+8,"Capitulo","sistemas inteligentes aplicados",2000,97
+9,"Ponencia","evaluacion de impacto social",2014,45
+10,"Ponencia","estudio de biodiversidad urbana",2017,65
+11,"Articulo","eficiencia energetica en viviendas",2025,84
+12,"Articulo","eficiencia energetica en viviendas",2024,63
+13,"Articulo","modelo de prediccion climatica",2010,57
+14,"Ponencia","modelo de prediccion climatica",2021,78
+15,"Libro","sistemas inteligentes aplicados",2024,82
+16,"Informe","eficiencia energetica en viviendas",2013,95
+17,"Ponencia","procesamiento de imagenes satelitales",2001,78
+18,"Informe","modelo de prediccion climatica",2016,88
+19,"Articulo","modelo de prediccion climatica",2010,58
+20,"Informe","modelo de prediccion climatica",2022,90
+21,"Articulo","sistemas inteligentes aplicados",2008,90
+22,"Articulo","procesamiento de imagenes satelitales",2012,9
+23,"Informe","sistemas inteligentes aplicados",2012,19
+24,"Informe","analisis de datos ambientales",2013,32
+25,"Informe","estudio de biodiversidad urbana",2025,100
+26,"Informe","modelo de prediccion climatica",2013,49
+27,"Libro","eficiencia energetica en viviendas",2018,40
+28,"Libro","sistemas inteligentes aplicados",2004,57
+29,"Libro","tecnicas de conservacion",2013,89
+30,"Ponencia","tecnicas de conservacion",2002,100
+31,"Articulo","uso sostenible del agua",2003,95
+32,"Informe","desarrollo de tecnologia educativa",2010,70
+33,"Capitulo","uso sostenible del agua",2025,62
+34,"Informe","eficiencia energetica en viviendas",2015,37
+35,"Ponencia","desarrollo de tecnologia educativa",2025,60
+36,"Capitulo","modelo de prediccion climatica",2006,71
+37,"Ponencia","tecnicas de conservacion",2008,49
+38,"Articulo","procesamiento de imagenes satelitales",2002,46
+39,"Articulo","modelo de prediccion climatica",2004,90
+40,"Ponencia","evaluacion de impacto social",2021,65
+41,"Informe","estudio de biodiversidad urbana",2001,66
+42,"Libro","uso sostenible del agua",2004,63
+43,"Ponencia","sistemas inteligentes aplicados",2000,5
+44,"Articulo","estudio de biodiversidad urbana",2001,62
+45,"Informe","tecnicas de conservacion",2010,86
+46,"Informe","analisis de datos ambientales",2025,98
+47,"Libro","procesamiento de imagenes satelitales",2024,96
+48,"Capitulo","eficiencia energetica en viviendas",2021,81
+49,"Libro","sistemas inteligentes aplicados",2018,54
+50,"Ponencia","estudio de biodiversidad urbana",2018,98
+51,"Articulo","evaluacion de impacto social",2010,18
+52,"Ponencia","eficiencia energetica en viviendas",2017,1
+53,"Informe","uso sostenible del agua",2002,3
+54,"Libro","tecnicas de conservacion",2017,14
+55,"Capitulo","evaluacion de impacto social",2011,50
+56,"Articulo","modelo de prediccion climatica",2020,79
+57,"Libro","uso sostenible del agua",2024,33
+58,"Libro","modelo de prediccion climatica",2002,46
+59,"Articulo","procesamiento de imagenes satelitales",2003,70
+60,"Libro","estudio de biodiversidad urbana",2007,5
+61,"Articulo","tecnicas de conservacion",2008,94
+62,"Informe","tecnicas de conservacion",2023,19
+63,"Ponencia","tecnicas de conservacion",2008,93
+64,"Informe","evaluacion de impacto social",2023,66
+65,"Ponencia","estudio de biodiversidad urbana",2018,4
+66,"Articulo","estudio de biodiversidad urbana",2023,8
+67,"Libro","desarrollo de tecnologia educativa",2000,91
+68,"Ponencia","uso sostenible del agua",2015,53
+69,"Ponencia","sistemas inteligentes aplicados",2001,28
+70,"Articulo","procesamiento de imagenes satelitales",2010,87
+71,"Capitulo","tecnicas de conservacion",2006,38
+72,"Libro","modelo de prediccion climatica",2001,52
+73,"Articulo","modelo de prediccion climatica",2017,55
+74,"Informe","procesamiento de imagenes satelitales",2012,18
+75,"Articulo","evaluacion de impacto social",2012,59
+76,"Capitulo","uso sostenible del agua",2001,54
+77,"Articulo","procesamiento de imagenes satelitales",2008,34
+78,"Articulo","sistemas inteligentes aplicados",2015,15
+79,"Ponencia","tecnicas de conservacion",2002,4
+80,"Libro","procesamiento de imagenes satelitales",2015,61
+81,"Ponencia","procesamiento de imagenes satelitales",2022,46
+82,"Libro","evaluacion de impacto social",2019,74
+83,"Informe","evaluacion de impacto social",2012,48
+84,"Ponencia","tecnicas de conservacion",2012,26
+85,"Informe","evaluacion de impacto social",2021,89
+86,"Capitulo","modelo de prediccion climatica",2021,33
+87,"Ponencia","estudio de biodiversidad urbana",2017,32
+88,"Capitulo","sistemas inteligentes aplicados",2000,64
+89,"Informe","sistemas inteligentes aplicados",2009,81
+90,"Informe","modelo de prediccion climatica",2023,55
+91,"Capitulo","eficiencia energetica en viviendas",2004,29
+92,"Ponencia","estudio de biodiversidad urbana",2009,30
+93,"Informe","sistemas inteligentes aplicados",2004,85
+94,"Informe","tecnicas de conservacion",2018,90
+95,"Articulo","uso sostenible del agua",2007,89
+96,"Capitulo","sistemas inteligentes aplicados",2021,28
+97,"Capitulo","tecnicas de conservacion",2010,77
+98,"Articulo","procesamiento de imagenes satelitales",2012,55
+99,"Libro","analisis de datos ambientales",2003,38
+100,"Libro","desarrollo de tecnologia educativa",2013,12
