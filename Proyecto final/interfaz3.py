@@ -91,7 +91,6 @@ class DuenioApp:
         btn_view_cita = tk.Button(btn_frame, text="Ver Mis Citas", width=20, command=self.view_citas_ui)
         btn_view_cita.grid(row=0, column=1, padx=10)
 
-        # Frame para contenido dinámico
         self.content_frame = tk.Frame(self.root)
         self.content_frame.pack(fill="both", expand=True, pady=10, padx=10)
 
